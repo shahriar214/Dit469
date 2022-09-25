@@ -1,0 +1,104 @@
+*{
+margin:0px;
+padding:0px;
+border:0px;
+box-sizing: border-box;
+}
+header{
+background-color: rgb(69, 12, 122);
+width: 100%;
+float: left;
+}
+img{
+height:100px;
+width: 110px;
+border-radius:2px;
+background-color:transparent; 
+}
+.container{
+width:80%;
+margin:auto;
+}
+.navigation-part{
+   width:100%;
+   float: left;
+}
+.hero-part{
+width:100%;
+float: left;   
+}
+.logo-part{
+width: 50%;
+float: left;
+}
+.section-part{
+width: 50%;
+float: left;
+}
+button{
+text-align: center;
+font-size: 15px;
+color: red;
+margin: 40px;
+}
+button:hover{
+background-color: rgb(54, 56, 56);
+}
+ul{
+color: white;
+}
+.hero-part{
+ text-align: center;
+ color:white;
+ margin: 20px;  
+}
+.sec{
+background-color: rgb(37, 136, 139);
+width: 100%;
+float: left;
+color: rgb(124, 14, 14);
+}
+.writting-part{
+text-align: center;
+margin: 15px;
+}
+.first{
+font-size: 29px;
+color: rgb(83, 14, 14);
+}
+.box-part{
+width: 100%;
+float: left;
+}
+.icon{
+width: 25%;
+float: left;
+}
+h4:hover{
+color: white;
+}
+.logo-part{
+margin: 10px 0px;
+}
+.section-part{
+margin: 5px 0px;
+text-align: end;
+}
+li{
+display: inline-block;
+margin: 7px;
+padding: 8px;
+font-size: 14px;
+color: red;
+text-align: end;
+font-weight: 500;
+}
+li:hover{
+background-color: rgba(0, 0, 0, 0.356);
+}
+h1{
+   margin: 50px;
+}
+h2{
+margin: 20px;
+}
